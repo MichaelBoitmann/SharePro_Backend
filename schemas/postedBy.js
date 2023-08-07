@@ -2,5 +2,5 @@ export default {
   name: 'postedBy',
   title: 'PostedBy',
   type: 'reference',
-  to: [{ type: 'author' }]
+  to: [{ type: 'user' }]
 }
